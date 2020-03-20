@@ -2,6 +2,10 @@
 
 
 ![alt text](https://pasteboard.co/IZZsC7l.jpg)
+<p align="center">
+  <img src="https://pasteboard.co/IZZsC7l.jpg"/>
+  <br/>
+</p>
 
 
 
