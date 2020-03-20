@@ -1,7 +1,7 @@
 # Design system to scan malware on video/photo
 
-https://imgur.com/a/ZbQNzBp
-![Image description](https://pasteboard.co/IZZsC7l.jpg)
+
+![alt text](https://pasteboard.co/IZZsC7l.jpg)
 
 
 
