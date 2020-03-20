@@ -1,7 +1,7 @@
 # Design system to scan malware on video/photo
 
 
-![alt text](https://pasteboard.co/IZZsC7l.jpg)
+
 <p align="center">
   <img src="https://pasteboard.co/IZZsC7l.jpg"/>
   <br/>
